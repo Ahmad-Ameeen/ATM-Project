@@ -1,0 +1,4 @@
+﻿  Project 2 Level 4.cpp
+C:\Users\LENOVO\source\repos\Project 2 Level 4\Project 2 Level 4\Project 2 Level 4.cpp(48,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\LENOVO\source\repos\Project 2 Level 4\Project 2 Level 4\Project 2 Level 4.cpp(262): warning C4715: 'GetQuickWithDrowAmount': not all control paths return a value
+  Project 2 Level 4.vcxproj -> C:\Users\LENOVO\source\repos\Project 2 Level 4\x64\Debug\Project 2 Level 4.exe
